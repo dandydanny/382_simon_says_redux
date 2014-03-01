@@ -4,8 +4,7 @@
 
 <p>For this challenge, your task is add jQuery to the provided <a href="http://cl.ly/2j2l1u1b3l43">Sinatra Shell for Simple Simon Says</a> as shown in the exciting video below. (Refresh the page if you don&#39;t see the video).  Each new color is added after the user clicks the &quot;Click Me&#39; button. </p>
 
-<iframe src="//player.vimeo.com/video/65261103?byline=0&amp;portrait=0"
-width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//player.vimeo.com/video/65261103" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/65261103">Simple Simon Says</a> from <a href="http://vimeo.com/user9970137">Anne Spalding</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <h2 id="toc_1">Core</h2>
 
